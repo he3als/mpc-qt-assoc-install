@@ -1,4 +1,4 @@
-# `mpc-qt-assoc-install.bat` <img src="https://raw.githubusercontent.com/he3als/mpc-qt-assoc-install/mpc-qt-document.png" align="right">
+# `mpc-qt-assoc-install.bat` <img src="https://raw.githubusercontent.com/he3als/mpc-qt-assoc-install/main/mpc-qt-document.png" align="right">
 
 This script is a fork of [mpv-install](https://github.com/rossy/mpv-install), and sets up file associations for [mpc-qt](https://github.com/mpc-qt/mpc-qt) on Windows.
 
