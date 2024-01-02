@@ -10,6 +10,8 @@ This script is a fork of [mpv-install](https://github.com/rossy/mpv-install), an
 3. Run `mpc-qc-assoc-install.bat`. **Note:** For an unattended install, use the `/u` switch. Optionally, a path can be specified, like `/u "%cd%\mpc-qt.exe"`
 4. Use *Windows Settings/Default Programs* and *AutoPlay* settings to make mpc-qt the default player
 
+### Location of mpc-qt
+
 You will be prompted to manually specify your `mpc-qt` executable path if:
 - The script is not already ran inside an mpc-qt directory
 - If mpc-qt is not installed via [Scoop](https://scoop.sh/)
